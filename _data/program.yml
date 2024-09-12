@@ -1,0 +1,12 @@
+days:
+- name: Wednesday
+  abbr: We
+  date: 2024-11-13
+
+- name: Thursday
+  abbr: Thu
+  date: 2024-11-14
+
+- name: Friday
+  abbr: Fri
+  date: 2024-11-15

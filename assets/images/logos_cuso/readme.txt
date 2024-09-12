@@ -1,0 +1,1 @@
+https://www.cuso.ch/structure-et-administration/logo/
