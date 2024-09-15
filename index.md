@@ -31,8 +31,7 @@ For questions regarding your accommodation please contact Benjamin Biaggi
 
 The best talk (judged by a jury) will be awarded the Birkhäuser Prize.
 
-If you are planinng to give a talk, please let us know accordingly in the registration form
-(registration will open on Monday, 16th September 2024).
+If you are planinng to give a talk, please let us know accordingly in the registration form.
 Participants that are in the beginning of their PhD are especially encouraged
 to take this opportunity and practice giving talks in front of this very friendly audience.
 
@@ -58,8 +57,7 @@ For more details, see [location](/location/).
 Our colloquium dinner takes place on Thursday, 14th November.
 The meal will be offered by CUSO for all CUSO docotoral students.
 However, drinks are on you.
-If you have any dietary restrictions (e.g. vegetarian, allergies, ...) please indicate so in the registration form
-(registration will open on Monday, 16th September 2024).
+If you have any dietary restrictions (e.g. vegetarian, allergies, ...) please indicate so in the registration form.
 For questions regarding the colloquium dinner, please contact Benjamin Biaggi
 ([benjamin.biaggi@unibe.ch](mailto:benjamin.biaggi@unibe.ch)).
 

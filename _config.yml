@@ -113,7 +113,7 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Registration will open on Monday, 16th September 2024!
+    - title: Registration will open soon!
       color: info
       main_only: true
       text: |
