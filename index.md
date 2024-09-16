@@ -55,7 +55,7 @@ For more details, see [location](/location/).
 ## Colloquium Dinner
 
 Our colloquium dinner takes place on Thursday, 7th November.
-The meal will be offered by CUSO for all CUSO docotoral students.
+The meal will be offered by CUSO for all CUSO doctoral students.
 However, drinks are on you.
 If you have any dietary restrictions (e.g. vegetarian, allergies, ...) please indicate so in the registration form.
 For questions regarding the colloquium dinner, please contact Benjamin Biaggi
