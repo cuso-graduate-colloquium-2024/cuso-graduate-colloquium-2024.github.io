@@ -31,7 +31,7 @@ For questions regarding your accommodation, please contact Benjamin Biaggi
 
 The best talk (judged by a jury) will be awarded the Birkhäuser Prize.
 
-If you are planinng to give a talk, please let us know accordingly in the registration form.
+If you are planning to give a talk, please let us know accordingly in the registration form.
 Participants that are in the beginning of their PhD are especially encouraged
 to take this opportunity and practice giving talks in front of this very friendly audience.
 
