@@ -20,7 +20,7 @@ We are very excited that this year's CUSO Graduate Colloquium is taking place at
 CUSO offers students from Geneva and Basel free accommodation in a shared room in Bern.
 If you want to make use of this, please check the corresponding box in the registration form.
 Please also indicate if you want to share your room with someone in particular.
-For questions regarding your accommodation please contact Benjamin Biaggi
+For questions regarding your accommodation, please contact Benjamin Biaggi
 ([benjamin.biaggi@unibe.ch](mailto:benjamin.biaggi@unibe.ch)).
 
 ---
@@ -54,7 +54,7 @@ For more details, see [location](/location/).
 
 ## Colloquium Dinner
 
-Our colloquium dinner takes place on Thursday, 14th November.
+Our colloquium dinner takes place on Thursday, 7th November.
 The meal will be offered by CUSO for all CUSO docotoral students.
 However, drinks are on you.
 If you have any dietary restrictions (e.g. vegetarian, allergies, ...) please indicate so in the registration form.
