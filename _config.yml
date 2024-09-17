@@ -70,7 +70,7 @@ conference:
     links:
       - name: Register
         relative_url: /register/
-        disabled: true
+        disabled: false
       - name: Program
         relative_url: /program/
         disabled: true
@@ -106,17 +106,18 @@ conference:
     links:
       - name: Register
         relative_url: /register/
-        disabled: true
+        disabled: false
       - name: Program
         relative_url: /program/
         disabled: true
 
   # Information boxes
   info_bars:
-    - title: Registration will open soon!
+    - title: Registration is open now!
       color: info
       main_only: true
       text: |
+        You may register for the CUSO Graduate Colloquium now [here](/register).
         The 2024 edition of the yearly CUSO Graduate Colloquium will take place in Bern for the first time since 2015.
 
   # Live indications

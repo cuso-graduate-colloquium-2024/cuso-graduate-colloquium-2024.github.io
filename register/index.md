@@ -7,7 +7,9 @@ layout: default
 If you want to attend the CUSO Graduate Colloquium:
 1. Please fill out
   [this form](https://docs.google.com/forms/d/e/1FAIpQLSfKp_sa9-gK1TJWmt5jE0cOwmdQDfOVrZ1lYgEABW6i1msPXg/viewform?usp=sf_link).
-2. Make sure to register on the official cuso website ([here]()), too.
+2. Make sure to register on the official CUSO website ([here](https://math.cuso.ch/?id=2607&tx_displaycontroller[showUid]=7094)), too.
+
+Yes, you do need to register __twice__! Both on this platform and on the official CUSO website.
 
 Note that the event is limited to 30 people for funding reasons.
 Therefore, __your registration will only be completed once officially confirmed from our side__.
