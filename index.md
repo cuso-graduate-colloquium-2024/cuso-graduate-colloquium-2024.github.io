@@ -18,6 +18,8 @@ We are very excited that this year's CUSO Graduate Colloquium is taking place at
 ## Accommodation
 
 CUSO offers students from Geneva and Basel free accommodation in a shared room in Bern.
+If you are from Geneva or Basel and need an accommodation,
+the __deadline of your registration is October the 15th__
 If you want to make use of this, please check the corresponding box in the registration form.
 Please also indicate if you want to share your room with someone in particular.
 For questions regarding your accommodation, please contact Benjamin Biaggi
