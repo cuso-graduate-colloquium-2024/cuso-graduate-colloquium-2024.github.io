@@ -1,5 +1,5 @@
 ---
-name: Lunch
+name: General Information
 speakers:
 categories:
   - Other

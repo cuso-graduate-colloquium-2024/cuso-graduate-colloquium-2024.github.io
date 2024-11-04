@@ -2,6 +2,7 @@
 name: Break
 speakers:
 categories:
+  - Other
 hide: true
 # links:
 #   - name: Recodring

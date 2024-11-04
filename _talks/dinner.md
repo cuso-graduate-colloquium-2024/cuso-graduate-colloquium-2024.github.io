@@ -2,7 +2,7 @@
 name: Dinner
 speakers:
 categories:
-    - Catering
+    - Other
 hide: true
 # links:
 #   - name: Recodring

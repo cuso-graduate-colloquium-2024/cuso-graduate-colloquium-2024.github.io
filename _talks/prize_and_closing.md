@@ -1,5 +1,5 @@
 ---
-name: Lunch
+name: Prize and Closing
 speakers:
 categories:
   - Other
