@@ -73,13 +73,13 @@ conference:
         disabled: false
       - name: Program
         relative_url: /program/
-        disabled: true
+        disabled: false
       - name: Talks
         relative_url: /talks/
-        disabled: true
-      - name: Speakers
-        relative_url: /speakers/
-        disabled: true
+        disabled: false
+      # - name: Speakers
+      #   relative_url: /speakers/
+      #   disabled: true
       - name: Location
         relative_url: /location/
       - name: Previous Editions
