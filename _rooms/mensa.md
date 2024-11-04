@@ -1,5 +1,5 @@
 ---
-name: Mensa Gesellschaftstrasse
+name: Mensa
 ---
 
 We will have lunch at the "Mensa Gesellschaftstrasse" of the university.
