@@ -49,7 +49,8 @@ page as soon as possible.
 
 ## Venue
 
-The Colloquium is taking place on the top floor at Alpeneggstrasse 22, 3012 Bern.
+The CUSO Graduate Colloquium will take place in the building of the exact sciences (**ExWi**) of the University of Bern.
+The building is located at **Sidlerstrasse 5, 3012 Bern**.
 For more details, see [location](/location/).
 
 ---
