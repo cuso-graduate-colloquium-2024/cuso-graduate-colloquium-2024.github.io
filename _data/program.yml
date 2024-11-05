@@ -57,7 +57,7 @@ days:
   
   - name: 119
     talks:
-      - name: TBA 1
+      - name: Symplectic geometry of the moduli space of hyperbolic metrics
         time_start: '14:15'
         time_end: '15:00'
       - name: Lipschitz-volume rigidity
@@ -66,7 +66,7 @@ days:
   
   - name: B1
     talks:
-      - name: TBA 2
+      - name: TBA
         time_start: '16:30'
         time_end: '17:15'
 

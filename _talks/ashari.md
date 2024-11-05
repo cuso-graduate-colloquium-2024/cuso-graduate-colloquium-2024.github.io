@@ -1,5 +1,5 @@
 ---
-name: TBA 2
+name: TBA
 speakers:
   - Mani Esna Ashari
 hide: false
