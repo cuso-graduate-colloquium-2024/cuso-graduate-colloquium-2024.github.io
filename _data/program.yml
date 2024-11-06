@@ -66,7 +66,7 @@ days:
   
   - name: B1
     talks:
-      - name: TBA
+      - name: Some Klein subgroups of the plane Cremona group in characteristic 2
         time_start: '16:30'
         time_end: '17:15'
 
