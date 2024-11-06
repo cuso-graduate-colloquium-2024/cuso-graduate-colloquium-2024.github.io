@@ -109,7 +109,7 @@ conference:
         disabled: false
       - name: Program
         relative_url: /program/
-        disabled: true
+        disabled: false
 
   # Information boxes
   info_bars:
