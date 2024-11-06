@@ -57,9 +57,9 @@ For more details, see [location](/location/).
 
 ## Colloquium Dinner
 
-Our colloquium dinner takes place on Thursday, 7th November
-at the restaurant Seidenhof (https://www.seidenhof-bern.ch/). We leave
-from ExWi around 18:00, feel free to go there directly and meet us there
+Our colloquium dinner takes place on Thursday, 7th November at
+[restaurant Seidenhof](https://www.seidenhof-bern.ch/), Zähringerstrasse 44, 3012 Bern.
+We leave from ExWi around 18:00, feel free to go there directly and meet us there
 around 18:15-18:30.
 The meal will be offered by CUSO for all CUSO doctoral students.
 However, drinks are on you.
